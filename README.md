@@ -9,7 +9,7 @@
    ### 
 
    <h1>
-  OLÁ, BEM-VINDO(A) AO MEU PERFIL
+     HELLO!! WELCOME TO MY PROFILE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
